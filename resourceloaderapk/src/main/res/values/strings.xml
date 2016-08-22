@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ResourceLoaderApk</string>
+    <string name="text">我是在Resource.apk的资源</string>
+</resources>
