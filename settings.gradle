@@ -1,1 +1,1 @@
-include ':app', ':resourceloaderapk'
+include ':app', ':resourceloaderapk', ':silentinstaller'

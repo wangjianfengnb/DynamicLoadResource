@@ -20,3 +20,5 @@
 
 
 
+####静默安装APK的代码在silentinstaller module里面
+
